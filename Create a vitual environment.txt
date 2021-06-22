@@ -1,0 +1,5 @@
+Create a vitual environment in your local system
+>> python3 -m venv env_airflow
+Then activate the virtual environment to execute all your code
+>> source env_airflow/bin/activate
+Then run the requiremet.txt to install all packages in virtual environment before executing your code
